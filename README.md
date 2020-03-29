@@ -1,2 +1,2 @@
 # some-codes
-This repository is used to store some lesure codes
+This repository is used to store some leisure codes
